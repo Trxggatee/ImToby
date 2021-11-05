@@ -1,0 +1,78 @@
+body {
+  background-color: BLACK;
+  color: #595959;
+}
+
+.top-container {
+  background-color: #836d69;
+  font-family: UnifrakturMaguntia;
+  height: 97vh;
+  width: 97.5vw;
+}
+.Title {
+  width: 300px;
+  height: 150px;
+  margin: auto;
+}
+
+.moon {
+  height: 100px;
+  width: 100px;
+}
+
+.myDropdown {
+  list-style-type: none;
+  border: 2px solid #4d004d;
+  padding: 5px;
+  text-align: center;
+  float: right;
+  clear: right;
+}
+.list:hover {
+  background-color: BLACK;
+  transition: 1s;
+}
+
+.tree {
+  margin-left: 85%;
+  margin-top: 12%;
+}
+
+h1 {
+  color: #3f001a;
+  margin-top: 0;
+  font-family: Emilys Candy;
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 0 0 100px #6600cc;
+}
+
+h3 {
+  color: #5d009e;
+}
+
+p {
+  text-align: center;
+}
+
+.me1 {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.me {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-left: 1100px;
+  object-fit: cover;
+}
+
+.me2 {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
